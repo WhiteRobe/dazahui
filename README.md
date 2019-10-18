@@ -158,6 +158,70 @@
 
 
 
+8. Adobe全家桶
+
+<p align="center">
+    <img src="pic/adobe.png" alt="adobe.png"/>
+</p>
+
+> **介绍**
+>
+> 你可能要问，我一个程序员为什么要知道这些？
+>
+> 事实上，虽然Adobe全家桶设计师用得多一些，但一些基础的应用水平，对于一名个人开发者而言是必不可少的。比如简单的修图、抠图、音频修正、视频剪辑等等等，利用这些流媒体创作软件，可以更好地展示你的项目。
+>
+> 我会在下面列出一些比较基本的Adobe软件使用技能。
+
+- [官网地址](https://www.adobe.com/)
+
+
+
+9. LastPass
+
+<p align="center">
+    <img src="pic/lastpass.png" alt="lastpass.png"/>
+</p>
+
+> **介绍**
+>
+> 你可能会有很多账号，但是如果只用同一个密码或者简单改几个字符，还是非常容易被撞库攻击的。
+>
+> LastPass可以直接集成到Chrome或是你的手机客户端，你可以保存一些不怎么重要的账号和密码到这款软件上(直接生成非常复杂的密码)；比如Nvidia开发者账号、Spotify音乐账号、各种临时注册的无所谓的账号等。
+>
+> 对于大部分人来说，免费版就够用了。
+
+- [官网地址](https://www.lastpass.com/zh)
+
+
+
+10. 支持差分的云盘
+
+> **介绍**
+>
+> 此处的云盘指的不是百度云盘这种纯存储的云盘。假设你有这种需求：你需要在一个电脑编辑一个文件，但是临时需要回家一趟，你这时候可能需要把未做完的这个软件保存然后通过QQ等软件发送到家里的电脑上。
+>
+> 不觉得很麻烦吗？
+>
+> 所以我要推荐“坚果云”、“腾讯微云”等云盘软件，这些软件可以自动扫描指定文件夹中的文件所发生的变动，然后仅仅把变动跟云端同步，这样你所有的设备都会收到这些变动。
+>
+> 下一次，带上你的笔记本，享受随时随地敲键盘的快感把。
+
+
+
+---
+
+### 基础软件技能
+
+|        名称         |       介绍        |                作用                |                             链接                             |
+| :-----------------: | :---------------: | :--------------------------------: | :----------------------------------------------------------: |
+|   Adobe Photoshop   |   图片编辑软件    |              抠图修图              | [中文官网地址](https://www.adobe.com/cn/products/photoshop.html) |
+|      Adobe XD       |   UX/UI设计平台   |     进行网页或APP动效图的制作      |  [中文官网地址](https://www.adobe.com/cn/products/xd.html)   |
+| Adobe After Effects | 视频编辑/特效软件 |             视频剪辑等             | [中文官网地址](https://www.adobe.com/cn/products/aftereffects.html) |
+|  Adobe Illustrator  | 矢量版画设计软件  |           画画，陶冶情操           | [中文官网地址](https://www.adobe.com/cn/products/illustrator.html) |
+| Adobe Premiere Pro  |   视频编辑软件    | 跟会声会影差不多的简单视频剪辑软件 |              [官网地址](https://www.adobe.com/)              |
+
+
+
 ## 云服务产品
 
 云服务是一个大类，也是本工具索引集的主要内容。这里简单介绍[SaaS(软件即服务)、PaaS(平台即服务)和IaaS(基础架构即服务)](index/cloud_intro.md)。
@@ -353,3 +417,43 @@
 
 - [官网地址](https://shields.io/)
 - [项目地址](https://github.com/badges/shields)
+
+
+
+## 社区产品
+
+1. Slack
+
+<p align="center">
+    <img src="pic/slack.png" width="80%" alt="slack.png"/>
+</p>
+
+> **介绍**
+>
+> Slack是一个社群交流工具，你可以把它比作是一个Q群之类的东西，但是其更为高效。
+>
+> 和QQ等工具不同，Slack采用Workspace(以下简称Group)的形式进行人员组织；每一个组织是一个Group，你在每个Group都要单独注册一个账号(邮箱注册即可，很简单)。
+>
+> 好处就在于严格划分了你的账号的职能范围，不会出现类似微信那种工作强行侵袭个人生活的情况；但与此同时会产生大量碎片账号——这也是我什么会在前文推荐`LastPass`这种软件的理由。
+>
+> 作为一个软件开发者，你会发现很多有着相同兴趣爱好的人聚在一起讨论一件事，如果你渴望跟全世界的开发者一起讨论开源项目或是某种技术，你应当尝试Slack。
+
+- [官网地址]()
+
+
+
+2. Stack Overflow
+
+<p align="center">   
+    <img src="pic/stackoverflow.png" height="175" alt="stackoverflow.png"/>
+</p>
+
+> **介绍**
+>
+> 专业的BUG讨论社区，后来慢慢发展成了一个类似领英一样的求职网站。
+>
+> - 你可以在Stack Overflow讨论任何你遇到的Bug，总会有非常Nice的人帮你解决问题。
+> - 社区的回答都比较高质量，是因为他们遵从了[严格的提问和回答格式/要求](https://www.jianshu.com/p/4040622dc2ec)，同时对你的英文水平要求较高。
+> - 《[为什么程序员一定要会用Google和Stack Overflow？](https://blog.csdn.net/u012207345/article/details/81139665)》
+
+- [官网地址](https://stackoverflow.com/)
