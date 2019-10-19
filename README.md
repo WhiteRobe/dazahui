@@ -140,7 +140,7 @@
 7. terminus
 
 <p align="center">
-    <img src="pic/terminus.png" width="90%" alt="terminus.png"/>
+    <img src="pic/terminus.png" width="80%" alt="terminus.png"/>
 </p>
 
 > **介绍**
@@ -161,7 +161,7 @@
 8. Adobe全家桶
 
 <p align="center">
-    <img src="pic/adobe.png" alt="adobe.png"/>
+    <img src="pic/adobe.png" height="350" alt="adobe.png"/>
 </p>
 
 > **介绍**
@@ -175,11 +175,21 @@
 - [官网地址](https://www.adobe.com/)
 
 
+|        名称         |       介绍        |                作用                |                             链接                             |
+| :-----------------: | :---------------: | :--------------------------------: | :----------------------------------------------------------: |
+|   Adobe Photoshop   |   图片编辑软件    |              抠图修图              | [中文官网地址](https://www.adobe.com/cn/products/photoshop.html) |
+|      Adobe XD       |   UX/UI设计平台   |     进行网页或APP动效图的制作      |  [中文官网地址](https://www.adobe.com/cn/products/xd.html)   |
+| Adobe After Effects | 视频编辑/特效软件 |             视频剪辑等             | [中文官网地址](https://www.adobe.com/cn/products/aftereffects.html) |
+|  Adobe Illustrator  | 矢量版画设计软件  |           画画，陶冶情操           | [中文官网地址](https://www.adobe.com/cn/products/illustrator.html) |
+| Adobe Premiere Pro  |   视频编辑软件    | 跟会声会影差不多的简单视频剪辑软件 |              [官网地址](https://www.adobe.com/)              |
+
+
+
 
 9. LastPass
 
 <p align="center">
-    <img src="pic/lastpass.png" alt="lastpass.png"/>
+    <img src="pic/lastpass.png" height="200" alt="lastpass.png"/>
 </p>
 
 > **介绍**
@@ -196,6 +206,11 @@
 
 10. 支持差分的云盘
 
+<p align="center">
+    <img src="pic/weiyun.png" height="85" alt="weiyun.png"/>
+    <img src="pic/jianguoyun.png" height="85" alt="jianguoyun.png"/>
+</p>
+
 > **介绍**
 >
 > 此处的云盘指的不是百度云盘这种纯存储的云盘。假设你有这种需求：你需要在一个电脑编辑一个文件，但是临时需要回家一趟，你这时候可能需要把未做完的这个软件保存然后通过QQ等软件发送到家里的电脑上。
@@ -208,17 +223,37 @@
 
 
 
----
+11. Docker
 
-### 基础软件技能
+<p align="center">
+    <img src="pic/docker.png" alt="docker.png"/>
+</p>
 
-|        名称         |       介绍        |                作用                |                             链接                             |
-| :-----------------: | :---------------: | :--------------------------------: | :----------------------------------------------------------: |
-|   Adobe Photoshop   |   图片编辑软件    |              抠图修图              | [中文官网地址](https://www.adobe.com/cn/products/photoshop.html) |
-|      Adobe XD       |   UX/UI设计平台   |     进行网页或APP动效图的制作      |  [中文官网地址](https://www.adobe.com/cn/products/xd.html)   |
-| Adobe After Effects | 视频编辑/特效软件 |             视频剪辑等             | [中文官网地址](https://www.adobe.com/cn/products/aftereffects.html) |
-|  Adobe Illustrator  | 矢量版画设计软件  |           画画，陶冶情操           | [中文官网地址](https://www.adobe.com/cn/products/illustrator.html) |
-| Adobe Premiere Pro  |   视频编辑软件    | 跟会声会影差不多的简单视频剪辑软件 |              [官网地址](https://www.adobe.com/)              |
+> **介绍**
+>
+> 无论是学术届还是软件开发，对Docker的使用已经越来越普遍。用比较通俗的说法来介绍Docker：
+>
+> - 把操作系统、依赖、环境变量和你所开发的应用等等等通通打包，这样在发布后别人使用你的应用无需从头开始搭建各类环境。
+
+- [官网地址](https://www.docker.com/)
+
+
+
+12. JetBrains全家桶
+
+<p align="center">
+    <img src="pic/jetbrain.png" alt="jetbrain.png"/>
+</p>
+
+> **介绍**
+>
+> JetBrains系列的IDE的强大毋庸置疑，如果你还在使用落后的Eclipse或者Sublime等工具编辑你的代码，你最好走出你的编程舒适区，用一点时间来适应JetBrains的产品，你会发现在它所构建的开发环境下开发时多么愉快的一件事。当然，它也有它的缺点，比如启动速度慢、吃内存较大之类的问题。但你需要很频繁的打开关闭某几个文件么？你缺内存条么？
+>
+> - 不要再给自己的懒惰找借口和向从课堂/博客上学来的那些落后生产力妥协。
+> - 学生或者GitHub黄书包可以申请免费的全家桶。等于一年给你省了几千美金，这么良心的公司你为什么反感？
+> - 有中文客服，你可以使用中文提交工单，工作日内必答复。
+
+- [官网地址](http://www.jetbrains.com/)
 
 
 
@@ -294,7 +329,7 @@
 4. 免费Logo设计-U钙网
 
 <p align="center">
-    <img src="pic/ugai.png" alt="ugai.png"/>
+    <img src="pic/ugai.png" height="200" alt="ugai.png"/>
 </p>
 
 > **介绍**
@@ -313,7 +348,7 @@
 5. Font Awesome
 
 <p align="center">
-    <img src="pic/fontawesome.png" alt="fontawesome.png"/>
+    <img src="pic/fontawesome.png" height="200" alt="fontawesome.png"/>
 </p>
 
 > **介绍**
@@ -350,7 +385,7 @@
 7. Travis CI
 
 <p align="center">
-    <img src="pic/travisci.png" alt="travisci.png"/>
+    <img src="pic/travisci.png" height="200 "alt="travisci.png"/>
 </p>
 
 > **介绍**
@@ -405,7 +440,7 @@
 10. Shield.io
 
 <p align="center">
-    <img src="pic/shieldio.png" alt="shieldio.png"/>
+    <img src="pic/shieldio.png" height="100" alt="shieldio.png"/>
 </p>
 
 > **介绍**
@@ -420,12 +455,59 @@
 
 
 
-## 社区产品
+11. Lean Cloud
+
+<p align="center">
+    <img src="pic/leancloud.png" height="200" alt="leancloud.png"/>
+</p>
+
+> **介绍**
+>
+> Lean Cloud是国内最早推出Serverless概念的公司，可以说在微信小程序没有推出云开发之前，Lean Cloud是最早支持云开发的公司，不少独立开发者都基于它的服务构建了自己的小程序。它的产品主要包括：**数据存储、云函数/云开发、即时通讯、游戏解决方案(排行榜/匹配等)、邮件/短信推送**。
+>
+> - 大部分产品都提供**免费**的套餐，对于个人开发者而言完全是足够的。
+> - 稳定，在国内有大量节点，符合各类政策法规。
+> - 你可以用它来构建站内搜索(尽管我更推荐使用Algolia来做这件事)。
+> - 可以用来构建静态站点的留言等需要动态数据交互的内容。
+> - 可以很方便的构建微信小游戏的各类基础业务，如排行榜等。
+> - 如果你对以上内容都不感兴趣，你可以简单把它当成一个免费的数据库，往里面存各类数据。
+> - 邮件推送和短信推送，比如用于构建你的密码重置服务、登录确认服务、手机号确认服务等。
+
+- [官网地址](https://leancloud.cn/)
+
+
+
+12. Mailgun / SendGrid
+
+<p align="center">
+    <img src="pic/mailgun.png" height="100" alt="mailgun.png"/>
+    <img src="pic/sendgrid.png" height="100" alt="sendgrid.png"/>
+</p>
+
+> **介绍**
+>
+> Mailgun是非常强大的邮件推送系统，重要的是，如果月推送在10k封邮件以下，是完全免费的——相比之下，阿里云限定了日推送免费200封，对于个人开发者而言，Mailgun的性价比显然更高。
+>
+> 而另一方面，SendGrid则提供了首月40k免费的邮件推送量，之后为`100/mo`(这一点远不及阿里云，但可以作为备用方案使用)。
+>
+> - Mailgun的峰值邮件推送速度可达25k封/s，是业界顶尖水平。
+> - 你可以用它们来发送邮件验证码，比如密码重置服务、登录确认服务等。
+> - 对于邮件内容的审核没有阿里云严格，避免突然被BAN掉导致业务被迫下线的风险。
+>
+> 它们都已加入GitHub黄书包，你可以在一定程度上免费使用它们。
+
+- [Mailgun官网地址](https://www.mailgun.com/)
+
+- [SendGrid官网地址](https://sendgrid.com/)
+
+
+
+## 社群产品
 
 1. Slack
 
 <p align="center">
-    <img src="pic/slack.png" width="80%" alt="slack.png"/>
+    <img src="pic/slack.png" height="200" alt="slack.png"/>
 </p>
 
 > **介绍**
@@ -453,7 +535,9 @@
 > 专业的BUG讨论社区，后来慢慢发展成了一个类似领英一样的求职网站。
 >
 > - 你可以在Stack Overflow讨论任何你遇到的Bug，总会有非常Nice的人帮你解决问题。
-> - 社区的回答都比较高质量，是因为他们遵从了[严格的提问和回答格式/要求](https://www.jianshu.com/p/4040622dc2ec)，同时对你的英文水平要求较高。
+> - 社区回答的质量都比较高，是因为他们遵从了[严格的提问和回答格式/要求](https://www.jianshu.com/p/4040622dc2ec)。
+> - 同时，由于是个全球性之的问答社区，因此对你的英文水平要求较高。
+> - 和GitHub的`Contribution`一样，你在Stack Overflow上的`Reputation`将使得你的简历变得出彩。
 > - 《[为什么程序员一定要会用Google和Stack Overflow？](https://blog.csdn.net/u012207345/article/details/81139665)》
 
 - [官网地址](https://stackoverflow.com/)
