@@ -189,7 +189,7 @@
 9. LastPass
 
 <p align="center">
-    <img src="pic/lastpass.png" height="200" alt="lastpass.png"/>
+    <img src="pic/lastpass.png" height="200" width="80%" alt="lastpass.png"/>
 </p>
 
 > **介绍**
